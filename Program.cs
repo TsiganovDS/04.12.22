@@ -23,4 +23,4 @@ int funсtionAkkerman(int M, int N)
     return N;
 }
 
-Console.WriteLine ($"A({M},{N}) = {funсtionAkkerman(M, N)}");
+Console.Write($"A({M},{N}) = {funсtionAkkerman(M, N)}");
